@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+D:\Eclipse Workspace\Java Assignments\Dependency Management Using Maven\.metadata\.plugins\org.eclipse.jdt.core
+215302189.index
+1960782594.index
+3680258785.index
+3905064972.index
+1579578392.index
+3776617140.index
+43475103.index
+3244109136.index
+3578150500.index
+3694422182.index
+3593872919.index
+2963530217.index
+3381673149.index
+1280274398.index
+3677907576.index
+884389264.index
+77352064.index
+938911393.index
+3289871306.index
+2132962179.index
+161379345.index
+3643443857.index
+1865797976.index
+2323369571.index
+1848787992.index
